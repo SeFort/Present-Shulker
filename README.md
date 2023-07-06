@@ -1,5 +1,5 @@
 # Present Shulker Box
-To get it, you need to rename the anvil colored shulker box to Present. (All types of stalker box are shown in the picture below)
+To get it, you need to rename the anvil colored shulker box to Present. (All types of shulker box are shown in the picture below)
 
 ### ONLY AS ITEMS IN INVENTORY AND FRAMES
 
