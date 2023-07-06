@@ -1,12 +1,6 @@
-# Present-Shulker
-Ваши шалкеры могут стать подарками!
+# Present Shulker Box
+To get it, you need to rename the anvil colored shulker box to Present. (All types of stalker box are shown in the picture below)
 
-Данный РП создан на базе Рожденственского РП, шведожабы (Взяты модели и текстуры).
+### ONLY AS ITEMS IN INVENTORY AND FRAMES
 
-В виде блока модель НЕ отображается. (Только инвентарь и рамки)
-
-![present-shulker-table](https://user-images.githubusercontent.com/95398007/209471466-8a109314-4d37-4811-96e1-eb8c9aa7d62b.png)
-
-В подарках используются цветные шалкера*
-
-Не конфликтует с Рожденственским РП
+![table-present](https://github.com/ParanoidWIRES/Present-Shulker/assets/95398007/d3865899-eb48-41fe-ba99-553329cbafae)
